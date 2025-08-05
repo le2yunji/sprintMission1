@@ -72,12 +72,7 @@ header .login {
     padding: 12px 0 12px;
 }
 
-.btn .go {
-    display: block;
-    /* width: 357px; */
-    height: 56px;
-    /* padding: 16px 124px 16px 124px; */
-}
+
 
 
 
@@ -97,6 +92,7 @@ header .login {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 0 405px 0;
 }
 
 .banner .inner .sightseeing {
@@ -109,6 +105,8 @@ header .login {
     justify-content: flex-start;
     gap: 32px;
 }
+
+
 .banner .inner .top-image {
     width: 746px;
     height: 340px;
